@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "bareonBatang";
+    font-weight: normal;
+    font-style: normal;
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bareonBatang/bareonBatang.eot");
+    src: url("https://cdn.jsdelivr.net/gh/websfont/bareonBatang/bareonBatang.eot?#iefix") format("embedded-opentype"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bareonBatang/bareonBatang.woff2") format("woff2"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bareonBatang/bareonBatang.woff") format("woff"),
+         url("https://cdn.jsdelivr.net/gh/websfont/bareonBatang/bareonBatang.ttf") format("truetype");
+    font-display: swap;
+} 
+.bareonBatang {
+    font-family: "bareonBatang";
+}
